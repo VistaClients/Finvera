@@ -2,7 +2,7 @@ body,html{
   background-color: #e6e6e6!important;
 }
 #wrapper.editableSection{
- margin-top: 52px;
+ /* margin-top: 52px; */
 }
 #wrapper {
   width: calc(100% - 400px);
